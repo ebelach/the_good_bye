@@ -1,0 +1,29 @@
+body {
+  /* background-color:#808080; */
+  /* background-color:#7209B7; */
+  /* background-image: linear-gradient(to right, rgba(114,9,183,0.4), rgba(114,9,183,0.6)); */
+  /* background-image: linear-gradient(to right, rgba(76,201,240,0.4), rgba(76,201,240,0.6)); */
+  /* background-image: linear-gradient(to right, rgba(67,97,238,0.5), rgba(67,97,238,0.8)); */
+  background-image: linear-gradient(to right, rgba(58,12,163,0.8), rgba(58,12,163,1));
+
+}
+main {
+  background-color:white;
+}
+
+.carousel-item img{
+ opacity: 1;
+ }
+
+ .btn{
+   background-color: #3A0CA3;
+ }
+
+ .fa{
+   /* color: #4361EE; */
+   color: #7209B7;
+ }
+ .send{
+   background-color: #7209B7 ;
+   color: #fff;
+ }
